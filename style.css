@@ -270,7 +270,7 @@ svg:hover {
     font-size: 2vw;
     color: var(--text-main);
     margin-bottom: 0.5em;
-    margin-top: 1em;
+    margin-top: 3em;
 }
 
 button {
@@ -280,7 +280,7 @@ button {
     font-weight: 800;
     font-size: 1.2vw;
     color: var(--text-muted);
-    margin-top: 4em;
+    margin-top: 5em;
     width: 10vw;
     cursor: pointer;
     transition: all 0.2s;
