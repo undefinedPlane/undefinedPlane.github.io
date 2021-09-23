@@ -346,7 +346,6 @@ section {
 @media screen and (max-width: 425px) {
     nav {
         height: 5vh;
-        border: solid 2px red;
         padding: 2em;
         background-color: var(--bg-primary);
     }
@@ -379,7 +378,7 @@ section {
         margin-bottom: 0.4em;
     }
     .main-h1 {
-        font-size: 5em;
+        font-size: 4.5em;
     }
     .main-p {
         font-size: 1em;
